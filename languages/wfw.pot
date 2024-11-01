@@ -1,0 +1,254 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Woodpecker LeadForm Generator\n"
+"POT-Creation-Date: 2019-03-19 13:55+0100\n"
+"PO-Revision-Date: 2019-03-19 13:55+0100\n"
+"Last-Translator: WOODPECKER <integrations@woodpecker.co>\n"
+"Language-Team: integrations@woodpecker.co\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr_e;_ex;_x;_n\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/class-wfw-admin.php:154
+#: admin/partials/wfw-admin-display.php:34
+msgid "Settings"
+msgstr ""
+
+#: admin/partials/wfw-admin-display-shortcodes.php:29
+#: admin/partials/wfw-admin-display-prospects.php:30
+msgid ""
+"We weren't able to connect to Woodpecker. The API key is incorrect or no "
+"longer valid. Check your API key and try again. You can generate a new key "
+"in your Woodpecker account in \"Settings\"."
+msgstr ""
+
+#: admin/partials/wfw-admin-display-shortcodes.php:41
+#: admin/partials/wfw-admin-display-prospects.php:40
+#: admin/partials/wfw-admin-display-settings.php:45
+msgid ""
+"You need to generate API key. Go to \"Settings\" in your Woodpecker account"
+msgstr ""
+
+#: admin/partials/wfw-admin-display-shortcodes.php:50
+#: admin/partials/wfw-admin-display-prospects.php:48
+msgid "Looks like you haven't connect plugin to Woodpecker."
+msgstr ""
+
+#: admin/partials/wfw-admin-display-shortcodes.php:59
+msgid ""
+"If you want to send prospects to a general prospect list, use this shortcode:"
+msgstr ""
+
+#: admin/partials/wfw-admin-display-shortcodes.php:63
+msgid ""
+"If you want to send prospects to a particular campaign, copy the shortcode "
+"from the first column."
+msgstr ""
+
+#: admin/partials/wfw-admin-display-shortcodes.php:68
+msgid "Get&nbsp;shortcode (copy text to page)"
+msgstr ""
+
+#: admin/partials/wfw-admin-display-shortcodes.php:69
+msgid "Name"
+msgstr ""
+
+#: admin/partials/wfw-admin-display-shortcodes.php:70
+#: admin/partials/wfw-admin-display-prospects.php:64
+msgid "Status"
+msgstr ""
+
+#: admin/partials/wfw-admin-display-shortcodes.php:71
+msgid "From"
+msgstr ""
+
+#: admin/partials/wfw-admin-display-shortcodes.php:72
+msgid "Created"
+msgstr ""
+
+#: admin/partials/wfw-admin-display-how-it-works.php:26
+msgid ""
+"Woodpecker LeadForm Plugin allows you to integrate a Woodpecker account with "
+"your WordPress website. "
+msgstr ""
+
+#: admin/partials/wfw-admin-display-how-it-works.php:28
+msgid ""
+"You can use it to send contact information of the prospects who filled out "
+"the lead form."
+msgstr ""
+
+#: admin/partials/wfw-admin-display-how-it-works.php:30
+msgid ""
+"To use it, you need a Woodpecker account and an API key that you can "
+"generate in your Woodpecker account."
+msgstr ""
+
+#: admin/partials/wfw-admin-display-how-it-works.php:32
+msgid "To generate a new API Key, follow the steps below."
+msgstr ""
+
+#: admin/partials/wfw-admin-display-how-it-works.php:48
+msgid "Step 1"
+msgstr ""
+
+#: admin/partials/wfw-admin-display-how-it-works.php:49
+msgid "Log into your Woodpecker account at "
+msgstr ""
+
+#: admin/partials/wfw-admin-display-how-it-works.php:52
+msgid "Step 2"
+msgstr ""
+
+#: admin/partials/wfw-admin-display-how-it-works.php:53
+msgid "Go to \"Settings\" > \"API Keys\" "
+msgstr ""
+
+#: admin/partials/wfw-admin-display-how-it-works.php:58
+msgid "Step 3"
+msgstr ""
+
+#: admin/partials/wfw-admin-display-how-it-works.php:59
+msgid "Click \"Create a Key\" "
+msgstr ""
+
+#: admin/partials/wfw-admin-display-how-it-works.php:65
+msgid "Step 4"
+msgstr ""
+
+#: admin/partials/wfw-admin-display-how-it-works.php:66
+msgid ""
+"Now that you generated your API key, go to \"Settings\" in Woodpecker "
+"LeadForm Plugin and paste it in \"Woodpecker API\". "
+msgstr ""
+
+#: admin/partials/wfw-admin-display-how-it-works.php:71
+msgid ""
+"<br><br>\n"
+"                        Please enter the Campaign Tab in your Woodpecker "
+"LeadForm Plugin. In the Campaign Section, all your Campaigns from your "
+"Woodpecker App will be listed.  Choose the Campaign, that will be the key "
+"Campaign for your LeadForm Plugin and copy the short code that will appear "
+"on the left side of the table.\n"
+"                        <br><br>\n"
+"                        If you want to add the form onto your Wordpress page "
+"or post, paste the short code into the editor. All the prospects from the "
+"Woodpecker Plugin will drop into this particular Campaign."
+msgstr ""
+
+#: admin/partials/wfw-admin-display-prospects.php:60
+msgid "Email"
+msgstr ""
+
+#: admin/partials/wfw-admin-display-prospects.php:61
+msgid "First name"
+msgstr ""
+
+#: admin/partials/wfw-admin-display-prospects.php:62
+msgid "Last name"
+msgstr ""
+
+#: admin/partials/wfw-admin-display-prospects.php:63
+msgid "Company"
+msgstr ""
+
+#: admin/partials/wfw-admin-display-settings.php:33
+msgid ""
+"The API key is incorrect or no longer valid. Check your API key and try "
+"again. You can generate a new key in your Woodpecker account in \"Settings"
+"\". "
+msgstr ""
+
+#: admin/partials/wfw-admin-display-settings.php:55
+msgid "Woodpecker API key"
+msgstr ""
+
+#: admin/partials/wfw-admin-display-settings.php:61
+msgid "API key (generate in the Woodpecker Settings)"
+msgstr ""
+
+#: admin/partials/wfw-admin-display-settings.php:71
+#: admin/partials/wfw-admin-display-settings.php:96
+#: admin/partials/wfw-admin-display-settings.php:168
+#: admin/partials/wfw-admin-display-settings.php:203
+#: admin/partials/wfw-admin-display-settings.php:263
+msgid "Save changes"
+msgstr ""
+
+#: admin/partials/wfw-admin-display-settings.php:81
+msgid "Privacy policy"
+msgstr ""
+
+#: admin/partials/wfw-admin-display-settings.php:87
+msgid "Privacy policy text (you can use html to add link)"
+msgstr ""
+
+#: admin/partials/wfw-admin-display-settings.php:106
+msgid "Global forms options"
+msgstr ""
+
+#: admin/partials/wfw-admin-display-settings.php:112
+msgid "Email label"
+msgstr ""
+
+#: admin/partials/wfw-admin-display-settings.php:120
+msgid "First name label"
+msgstr ""
+
+#: admin/partials/wfw-admin-display-settings.php:133
+msgid "Last name label"
+msgstr ""
+
+#: admin/partials/wfw-admin-display-settings.php:146
+msgid "Company name label"
+msgstr ""
+
+#: admin/partials/wfw-admin-display-settings.php:159
+msgid "Submit button label"
+msgstr ""
+
+#: admin/partials/wfw-admin-display-settings.php:175
+msgid "Success message"
+msgstr ""
+
+#: admin/partials/wfw-admin-display-settings.php:184
+msgid "Error message"
+msgstr ""
+
+#: admin/partials/wfw-admin-display-settings.php:193
+msgid "Already exists message"
+msgstr ""
+
+#: admin/partials/wfw-admin-display-settings.php:213
+msgid "Forms style settings"
+msgstr ""
+
+#: admin/partials/wfw-admin-display-settings.php:220
+msgid "Form submit color"
+msgstr ""
+
+#: admin/partials/wfw-admin-display-settings.php:230
+msgid "Form submit background color"
+msgstr ""
+
+#: admin/partials/wfw-admin-display-settings.php:240
+msgid "Form submit hover background color"
+msgstr ""
+
+#: admin/partials/wfw-admin-display.php:28
+msgid "How it works"
+msgstr ""
+
+#: admin/partials/wfw-admin-display.php:30
+msgid "Campaigns"
+msgstr ""
+
+#: admin/partials/wfw-admin-display.php:32
+msgid "Prospects"
+msgstr ""
